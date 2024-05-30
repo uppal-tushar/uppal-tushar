@@ -1,11 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tushar Uppal
 ====================================================================================================================================
 
-Developer and Analyst
+Developer
 ---------------------
 
-* 🌍  I'm based in Chicago
-* ✉️  You can contact me at [uppaltushar22@gmail.com](mailto:uppaltushar22@gmail.com)
+
 * 🤝  I'm open to collaborating on projects
 * ⚡  I love to play Pool and Table tennis(Ping-Pong)
 
